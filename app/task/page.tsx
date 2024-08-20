@@ -1,5 +1,5 @@
 import React from "react";
-import SplitContainer from "./task/components/SplitContainer";
+import SplitContainer from "./components/SplitContainer";
 
 const Page = () => {
   return (
